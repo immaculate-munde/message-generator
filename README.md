@@ -16,7 +16,7 @@ A simple, responsive web app that generates random developer advice based on you
 
 ## 📸 Demo
 
-You can try it live here 👉 [https://your-live-link.netlify.app](#)
+You can try it live here 👉 [https://dev-advice.netlify.app/(#)
 
 ---
 
