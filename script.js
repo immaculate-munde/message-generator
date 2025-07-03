@@ -12,14 +12,32 @@ const collectiveAdvice = {
     'Kotlin 📱',
     'PHP 🐘',
     'Go 🚀',
-    'C# 🎯'
+    'C# 🎯',
+    'Python 🐍',
+    'Swift 🍏',
+    'Rust 🦀',
+    'TypeScript 📜',
+    'C++ ⚙️',
+    'Dart 🦄',
+    'Scala 🐪',
+    'Elixir 🦺',
+    'Haskell 🧠',
   ],
   level: [
     'Newbie 🐣',
     'Intermediate 🚶‍♂️',
     'Senior 🧑‍💼',
     'Master 🧙‍♂️',
-    'Grand Master 🐉'
+    'Grand Master 🐉',
+    'Expert 🧑‍🏫',
+    'Legendary 🦸‍♂️',
+    'Guru 🧘‍♂️', 
+    'Prodigy 🌟',
+    'Innovator 💡',
+    'Visionary 👁️',
+    'Pioneer 🚀',
+    'Trailblazer 🔥',
+    'Architect 🏛️',
   ],
   tip: [
     'Keep pushing! 💪',
@@ -27,7 +45,16 @@ const collectiveAdvice = {
     'Take breaks to avoid burnout 🌴',
     'Build real projects 🏗️',
     'Read code from others 📖',
-    'Stay curious and consistent 🔍'
+    'Stay curious and consistent 🔍',
+    'Join a community for support 🤝',
+    'Never stop learning! 📚',
+    'Experiment with new technologies 🧪',
+    'Share your knowledge with others 🌍',
+    'Embrace challenges as opportunities 🚀',
+    'Stay updated with industry trends 🌐',
+    'Balance work and life for better productivity ⚖️',
+    'Focus on problem-solving skills 🧩',
+    'Document your learning journey 📝',
   ]
 };
 
